@@ -10,4 +10,3 @@ lista3 = []
 
 for p in lista:
     lista3.append(lista)
-    print(lista3)
