@@ -33,3 +33,11 @@ span{
     font-size: 20px;
 
 }
+.footer {
+    text-align: center;
+    background: rgb(27, 131, 131);
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 2rem;
+    color: white;
+}
